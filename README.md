@@ -9,7 +9,11 @@ For this project, I created a stylized floating boat scene inspired by an illust
 ![Interactive Mode](InteractiveMode.png)
 
 ### Turnaround
-(Please see repo! Too big to put here)
+
+[Regular Mode Turnaround](https://vimeo.com/1233243721/04f068353f)
+
+[Interactive Mode Turnaround](https://vimeo.com/1233244068/d76fab8300)
+
 
 ---
 
